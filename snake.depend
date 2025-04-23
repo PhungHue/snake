@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1745409861 source:d:\new folder\snake\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	"snake.h"
+	"ball.h"
+
+1745409861 source:d:\new folder\snake\ball.cpp
+	"ball.h"
+	"snake.h"
+	<cstdlib>
+	<ctime>
+
+1745409002 d:\new folder\snake\ball.h
+	<SDL.h>
+
+1745409430 d:\new folder\snake\snake.h
+	<SDL.h>
+	<vector>
+
+1745409469 source:d:\new folder\snake\snake.cpp
+	"snake.h"
+	"ball.h"
+
